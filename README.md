@@ -11,24 +11,24 @@ activation, so does the output layer.
 2) Epochs vs Misclassification Count
 
 
-No of Epochs:35000
-Error on Training: 0.0432
-Misclassification count on Training:5
+No of Epochs:35000<br>
+Error on Training: 0.0432<br>
+Misclassification count on Training:5<br>
 Validation Data:
 1) Confusion Matrix:
-[[7 2 1]
-[3 5 2]
-[1 1 8]]
+[[7 2 1]<br>
+[3 5 2]<br>
+[1 1 8]]<br>
 2) Average Accuracy:
-0.667
+0.667<br>
 3) Error: 
- 0.244
-Test Data:
-1) Confusion Matrix:
-[[35 13 2]
-[14 30 6]
-[ 4 18 28]]
+ 0.244<br>
+Test Data:<br>
+1) Confusion Matrix:<br>
+[[35 13 2]<br>
+[14 30 6]<br>
+[ 4 18 28]]<br>
 2) Average Accuracy:
-0.62
+0.62<br>
 3) Error:
  0.30
