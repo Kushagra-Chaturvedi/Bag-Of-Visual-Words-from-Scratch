@@ -7,10 +7,10 @@ representation was feed into the neural network containing 64 neurons in
 Layer 1 and 32 neurons in Layer 2. Both the Layer has sigmoidal 
 activation, so does the output layer.
 1) Epochs vs Error
-
+<img src="Image_error_epoch.png" alt="Error vs Epochs">
 2) Epochs vs Misclassification Count
-
-
+<img src="Image_misclass_epoch.png" alt="Misclassification vs Epochs">
+<br>
 No of Epochs:35000<br>
 Error on Training: 0.0432<br>
 Misclassification count on Training:5<br>
